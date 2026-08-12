@@ -1,0 +1,5 @@
+.env
+.lab_meeting_prep_state.json
+__pycache__/
+*.py[cod]
+.venv/

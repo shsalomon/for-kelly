@@ -1,4 +1,5 @@
-# Kelly's Lab Meeting Prep Agent
+# Kelly's Lab Meeting Prep Agent ([Global Hack Week: Agents Week](https://ghw.mlh.com/schedule))
+[![View the full GHW Awesome Agents collection](https://img.shields.io/badge/GHW_Awesome_Agents-View_full_collection-6f42c1?style=for-the-badge&logo=github)](https://github.com/salomonhotegni/ghw-awesome-agents)
 
 A small Backboard-powered command-line agent that turns neuroscience research notes,
 paper abstracts, or early results into an organized lab-meeting brief. It keeps a
